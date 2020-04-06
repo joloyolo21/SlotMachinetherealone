@@ -1,0 +1,2 @@
+rootProject.name='Slot Machine the real one'
+include ':app'
